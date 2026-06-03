@@ -1,0 +1,8 @@
+{
+    "input_file": "input/sales.csv",
+    "database": "database/sales.db",
+    "failed_records": "output/failed_records.csv",
+    "duplicates": "output/duplicates.csv",
+    "log_file": "logs/etl.log",
+    "validation_report": "output/validation_report.txt"
+  }

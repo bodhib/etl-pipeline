@@ -1,0 +1,6 @@
+store_id,store_name,sales_date,amount,email
+101,Kolkata Store,2026-05-01,25000,test@test.com
+102,Delhi Store,INVALID_DATE,18000,test@test.com
+103,Mumbai Store,2026-05-01,-500,test@test.com
+104,,2026-05-01,30000,test@test.com
+105,Pune Store,2026-05-01,50000,bademail
