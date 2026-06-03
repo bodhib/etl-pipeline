@@ -1,4 +1,4 @@
-![CI](https://github.com/<username>/<repo>/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/bodhib/etl-pipeline/actions/workflows/ci.yml/badge.svg)
 
 # Python ETL Pipeline
 

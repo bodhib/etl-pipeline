@@ -16,8 +16,8 @@ Production-style ETL project.
 
 ## Validation Report
 
-![Validation](validation_report.png)
+![Validation](validation_report.PNG)
 
 ## Audit Table
 
-![Audit](audit_table.png)
+![Audit](audit_table.PNG)
